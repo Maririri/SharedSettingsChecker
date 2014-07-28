@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "36EBC4103C9F48FA182800A5"
+               BuildableName = "CocoApp6-4.app"
+               BlueprintName = "CocoApp6-4"
+               ReferencedContainer = "container:CocoApp6-4.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "36EBC4103C9F48FA182800A5"
+            BuildableName = "CocoApp6-4.app"
+            BlueprintName = "CocoApp6-4"
+            ReferencedContainer = "container:CocoApp6-4.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
