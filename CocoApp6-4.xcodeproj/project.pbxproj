@@ -383,6 +383,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				BUILD_VARIANTS = (
+					ohohoho,
+				);
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = "CocoApp6-4/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
