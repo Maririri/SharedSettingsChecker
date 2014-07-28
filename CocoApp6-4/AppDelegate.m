@@ -22,6 +22,15 @@
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
     // Insert code here to initialize your application
 
+
+
+
+        NSDictionary *textAnalysisProperties = [NSDictionary dictionaryWithObjectsAndKeys:
+                                                         [NSNumber numberWithInteger:0], kSKMaximumTerms,
+                                                         [NSNumber numberWithInteger:2], kSKMinTermLength];
+
+
+
 }
 
 - (void)applicationWillTerminate:(NSNotification *)aNotification {
