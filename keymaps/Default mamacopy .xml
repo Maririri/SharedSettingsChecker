@@ -1,0 +1,5 @@
+<keymap version="1" name="Default mamacopy " parent="$default">
+  <action id="EditorActions">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+</keymap>

@@ -1,5 +1,5 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="EditorBackwardParagraph">
-    <keyboard-shortcut first-keystroke="meta period" />
+  <action id="HelpTopics">
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
 </keymap>
