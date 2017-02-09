@@ -1,6 +1,5 @@
 <code_scheme name="My_project">
   <Objective-C>
-    <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
     <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
     <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
     <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
